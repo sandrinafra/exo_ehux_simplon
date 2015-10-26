@@ -1,0 +1,71 @@
+body
+{
+	background-color: #ad233d;
+	border: 3px solid black;
+
+
+}
+
+#global_content
+{
+	display: inline-block;
+	border: 3px solid black;
+	margin-top: -300px;
+}
+
+#number
+{
+	margin-top: 50px;
+	border: 3px solid black;
+	height: 50px;
+	width: 300px;
+	font-family: sans-serif;
+}
+
+#ma
+{
+	position: absolute;
+	border: 3px solid black;
+
+}
+
+#mi
+{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 125px;
+}
+
+#us
+{
+	border: 3px solid black;
+	width: 230px;
+	margin-top: 120px;
+}
+
+#usi
+{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+
+#min
+{
+	border: 3px solid black;
+	width: 230px;
+	margin-top: 10px;
+}
+
+#mines
+{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+
+
+
+
+
